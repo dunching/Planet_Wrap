@@ -1,3 +1,6 @@
 [submodule "Server_Manager"]
 	path = Server_Manager
 	url = https://github.com/dunching/Server_Manager.git
+[submodule "Router"]
+	path = Router
+	url = https://github.com/dunching/Router.git
