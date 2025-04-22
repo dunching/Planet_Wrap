@@ -4,3 +4,7 @@
 [submodule "Router"]
 	path = Router
 	url = https://github.com/dunching/Router.git
+
+[submodule "Planet"]
+	path = Planet
+	url = https://github.com/dunching/Planet.git
